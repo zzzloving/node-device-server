@@ -1,0 +1,13 @@
+{
+  "name": "koke-egg-mongoose",
+  "version": "1.0.0",
+  "description": "koke egg mongoose plugin",
+  "eggPlugin": {
+    "name": "kokemongoose"
+  },
+  "dependencies": {
+    "await-event": "^2.0.0",
+    "mongoose": "^4.8.6"
+  }
+
+}
