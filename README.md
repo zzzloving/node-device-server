@@ -1,5 +1,5 @@
 # rt-BLE
-
+    基于node开发的一个物联网服务 目前只有设备状态的存储查询  用到的数据库mysql redis mongo
 
 
 ## QuickStart
